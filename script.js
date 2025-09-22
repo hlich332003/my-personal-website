@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Kiểm tra xem website đã chạy chưa
 console.log("Website portfolio đã chạy!");
 
@@ -45,3 +46,6 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(section);
     });
 });
+=======
+console.log("Website portfolio đã chạy!");
+>>>>>>> ed3440da814820ccd9a43d7581cb905553837301

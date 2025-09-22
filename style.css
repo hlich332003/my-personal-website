@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Import Font Awesome */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
 
@@ -8,6 +9,8 @@
     box-sizing: border-box;
 }
 
+=======
+>>>>>>> ed3440da814820ccd9a43d7581cb905553837301
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -17,16 +20,24 @@ body {
     color: #333;
 }
 
+<<<<<<< HEAD
 /* Header */
 header {
     background: #35424a;
     color: #ffffff;
     padding: 30px 0;
+=======
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+>>>>>>> ed3440da814820ccd9a43d7581cb905553837301
     text-align: center;
 }
 
 header h1 {
     margin: 0;
+<<<<<<< HEAD
     font-size: 2.5rem;
 }
 
@@ -43,10 +54,20 @@ section {
     background: white;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+=======
+}
+
+section {
+    padding: 20px;
+    margin: 10px 20px;
+    background: white;
+    border-radius: 5px;
+>>>>>>> ed3440da814820ccd9a43d7581cb905553837301
 }
 
 h2 {
     color: #35424a;
+<<<<<<< HEAD
     border-bottom: 2px solid #e8491d;
     padding-bottom: 10px;
     margin-bottom: 20px;
@@ -144,4 +165,13 @@ footer {
         padding: 8px 15px;
         font-size: 0.9rem;
     }
+=======
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #35424a;
+    color: white;
+>>>>>>> ed3440da814820ccd9a43d7581cb905553837301
 }
